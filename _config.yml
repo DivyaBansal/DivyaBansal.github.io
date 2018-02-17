@@ -1,19 +1,19 @@
 # main text of home
 name: Divya Bansal
-bio: A Man who travels the world eating noodles
+bio: A girl who loves everything about computers
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: true
+resume: true
+resume-external: false
 resume-url: http://DivyaBansal.github.io
 # your url: http://USERNAME.github.io
 
@@ -23,7 +23,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+ analytics-google: 'UA-114334768-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -33,29 +33,27 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: github.com/DivyaBansal
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: divyabansal266@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+    divya:
+        name: Divya Bansal
+       # bio: A Man who travels the world eating noodles
+        #external-image: false
+       # picture: assets/images/profile.jpg
+       #twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
