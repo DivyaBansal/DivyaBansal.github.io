@@ -3,11 +3,11 @@ name: Divya Bansal
 bio: A girl who loves everything about computers
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -50,7 +50,7 @@ email: divyabansal266@gmail.com
 authors:
     divya:
         name: Divya Bansal
-       # bio: A Man who travels the world eating noodles
+        bio: A girl who loves everything about computers
         #external-image: false
        # picture: assets/images/profile.jpg
        #twitter: johndoe
