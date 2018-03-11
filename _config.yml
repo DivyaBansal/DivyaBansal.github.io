@@ -1,9 +1,10 @@
 # main text of home
 name: Divya Bansal
-bio: A girl who loves everything about computers
+bio: "A girl who loves everything about computers"
+encoding: UTF-8
 
 # twitter summary info
-#description: A blog about technology and stuff related
+description: "A blog about technology and stuff related"
 
 # if it's an external image, update below for true
 # better with square images
