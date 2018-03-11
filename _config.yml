@@ -1,21 +1,21 @@
 # main text of home
 name: Divya Bansal
-bio: "A girl who loves everything about computers"
+bio: 'A girl who loves everything about computers'
 encoding: UTF-8
 
 # twitter summary info
-description: "A blog about technology and stuff related"
+description: 'A blog about technology and stuff related'
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: 'assets/images/profile.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: false
-resume-url: http://DivyaBansal.github.io
+#resume-external: false
+#resume-url: http://DivyaBansal.github.io
 # your url: http://USERNAME.github.io
 
 url: http://DivyaBansal.github.io
@@ -109,3 +109,5 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
