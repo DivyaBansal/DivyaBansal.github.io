@@ -3,16 +3,16 @@ name: Divya Bansal
 bio: A girl who loves everything about computers
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
 resume-url: http://DivyaBansal.github.io
 # your url: http://USERNAME.github.io
