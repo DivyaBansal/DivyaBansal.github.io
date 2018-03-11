@@ -18,7 +18,7 @@ resume: false
 #resume-url: http://DivyaBansal.github.io
 # your url: http://USERNAME.github.io
 
-url: http://DivyaBansal.github.io
+url: https://DivyaBansal.github.io
 
 permalink: /:title/
 
@@ -33,7 +33,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+#disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 # google: mygoogle
